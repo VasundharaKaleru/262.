@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/VasundharaKaleru/262..git/static/css/main.f855e6bc.css",
+    "main.js": "/VasundharaKaleru/262..git/static/js/main.e6e319ea.js",
+    "static/js/592.102c4589.chunk.js": "/VasundharaKaleru/262..git/static/js/592.102c4589.chunk.js",
+    "static/media/logo.svg": "/VasundharaKaleru/262..git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/VasundharaKaleru/262..git/index.html",
+    "main.f855e6bc.css.map": "/VasundharaKaleru/262..git/static/css/main.f855e6bc.css.map",
+    "main.e6e319ea.js.map": "/VasundharaKaleru/262..git/static/js/main.e6e319ea.js.map",
+    "592.102c4589.chunk.js.map": "/VasundharaKaleru/262..git/static/js/592.102c4589.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e6e319ea.js"
+  ]
+}
